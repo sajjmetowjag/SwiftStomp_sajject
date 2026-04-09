@@ -189,7 +189,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 - iOS 13 or above, macOS 10.15 or above, tvOS 13 or above
 
 ## Installation
-22222222222222222
+fengyuan##fyinformation.ccyang##
 ### CocoaPods
 SwiftStomp is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
